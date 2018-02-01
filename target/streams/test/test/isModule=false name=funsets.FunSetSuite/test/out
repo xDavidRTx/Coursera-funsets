@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0m[32mFunSetSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- contains is implemented[0m[0m
+[0m[[0minfo[0m] [0m[32m- singletonSet(1) contains 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- union contains all elements of each set[0m[0m
+[0m[[0minfo[0m] [0m[32m- Intersection[0m[0m
+[0m[[0minfo[0m] [0m[32m- Difference[0m[0m
+[0m[[0minfo[0m] [0m[32m- filter the odds[0m[0m
+[0m[[0minfo[0m] [0m[32m- todos os numeros sao menores de 4?[0m[0m
+[0m[[0minfo[0m] [0m[32m- todos os numeros sao maiores que 4?[0m[0m
+[0m[[0minfo[0m] [0m[32m- existe pelo menos um numero par[0m[0m
+[0m[[0minfo[0m] [0m[32m- multiplicar todos os elemntos po 10[0m[0m
